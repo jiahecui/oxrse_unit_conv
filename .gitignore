@@ -14,8 +14,9 @@
 .pytest_cache
 
 # Virtual environments
+venv/
+.venv/
 RSEenv/
 .RSEenv/
-.venv/
 
 __pycache__/
